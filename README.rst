@@ -38,7 +38,7 @@ The following legacy aliases exist to make upgrading easier:
 Usage
 =====
 
-NeoBunch is a dictionary that supports attribute-style access, a la JavaScript.
+NeoBunch is a dictionary that supports attribute-style access, à la JavaScript.
 
 >>> b = NeoBunch()
 >>> b.hello = 'world'
